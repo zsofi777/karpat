@@ -1,10 +1,10 @@
 $(function () {
             var jsondata = [
-{ "id" : "Katmu1001", "parent" : "Katmu", "text" : "Általános gazdasági mutatók" },
-{ "id" : "Katmu1002", "parent" : "Katmu", "text" : "Gazdasági ágazatok" },
-{ "id" : "Katmu1003", "parent" : "Katmu", "text" : "Környezet" },
-{ "id" : "Katmu1004", "parent" : "Katmu", "text" : "Népesség, népmozgalom" },
-{ "id" : "Katmu1005", "parent" : "Katmu", "text" : "Társadalom" },
+{ "id" : "Katmu1001", "parent" : "#", "text" : "Általános gazdasági mutatók" },
+{ "id" : "Katmu1002", "parent" : "#", "text" : "Gazdasági ágazatok" },
+{ "id" : "Katmu1003", "parent" : "#", "text" : "Környezet" },
+{ "id" : "Katmu1004", "parent" : "#", "text" : "Népesség, népmozgalom" },
+{ "id" : "Katmu1005", "parent" : "#", "text" : "Társadalom" },
 { "id" : "Katmu2001", "parent" : "Katmu1001", "text" : "Gazdasági és nonprofit szervezetek, vállalkozások teljesítménye" },
 { "id" : "Katmu2002", "parent" : "Katmu1001", "text" : "Kutatás-fejlesztés, innováció" },
 { "id" : "Katmu2003", "parent" : "Katmu1001", "text" : "Nemzeti számlák, GDP" },
